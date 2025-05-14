@@ -15,7 +15,7 @@ The `PokemonGame` class manages the overall game flow and player interactions.
 It Includsfunctions such as viewing status, training, resting, fighting, switching, capturing, etc.
 
 ### 4. Running the Game
-
+- Open 'COMP9001_final_project.ipynb' file.
 - Click below to enter the game
   ```python
   if __name__ == "__main__":
